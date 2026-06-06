@@ -4,7 +4,7 @@
 
 ### Files
 - `*.csv` → Metadata, labels, text, and image paths (3 files)
-- `images.zip` → All thumbnail images
+- `thesis-images.zip` → All thumbnail images
 
 ### Download
 **Recommended (faster & better organized)**:  
